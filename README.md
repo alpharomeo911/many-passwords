@@ -21,7 +21,7 @@ Each entries contains Vendor, Model/Software name, Version, Access Type, Usernam
 
 The credentials are included in the [passwords.csv](https://github.com/many-passwords/many-passwords/blob/main/passwords.csv) file (the data is presented in the form of a table).
 
-Entries can also be found on [project website](https://github.com/many-passwords/).
+Entries can also be found on [project website](https://many-passwords.github.io/).
 
 # Stats
 
