@@ -4,7 +4,7 @@
 
 _Many passwords, the high-quality database of defaults passwords._ 🐱‍💻
 
-The purpouse of this project is to collect all the default credentials in one place and ensure that the entries are of high quality.
+Purpouse of this project is to collect all the default credentials in one place and ensure that the entries are of high quality.
 
 Each entries contains Vendor, Model/Software name, Version, Access Type, Username, Password, Privileges	and Notes. 
 
