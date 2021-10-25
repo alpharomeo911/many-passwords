@@ -4,7 +4,7 @@
 
 _Many passwords, the high-quality database of defaults passwords._ 🐱‍💻
 
-Find all the credentials you need.
+The purpouse of this project is to collect all the default credentials in one place and ensure that the entries are of high quality.
 
 Each entries contains Vendor, Model/Software name, Version, Access Type, Username, Password, Privileges	and Notes. 
 
@@ -29,8 +29,8 @@ The number of unique credentials at the moment is ``504``.
 
 # Contribution
 
-Contribute in the main repository by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords/blob/main/CONTRIBUTING.md) file in main repo or    
-contribute in the web repository by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords.github.io/blob/main/CONTRIBUTING.md) file in website repo.
+Contribute <!-- in the main repository --> by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords/blob/main/CONTRIBUTING.md) file in main repo <!--or    
+contribute in the web repository by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords.github.io/blob/main/CONTRIBUTING.md) file in website repo. -->
 
 # Contributors
 
