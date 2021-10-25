@@ -2,16 +2,35 @@
 
 # Many passwords
 
-_Default password for each devices._ 🐱‍💻
+_Many passwords, the high-quality database of defaults passwords._ 🐱‍💻
 
-The purpose of this project is to collect all the default passwords in one place.  
-Find out how you can contribute to this by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords/blob/main/CONTRIBUTING.md) file.
+Find all the credentials you need.
+
+Each entries contains Vendor, Model/Software name, Version, Access Type, Username, Password, Privileges	and Notes. 
+
+# Table of content
+
+- [Navigation](https://github.com/many-passwords/many-passwords#navigation)
+- [Stats](https://github.com/many-passwords/many-passwords#stats)
+- [Contribution](https://github.com/many-passwords/many-passwords#contribution)
+- [Contributors](https://github.com/many-passwords/many-passwords#contributors)
+- [Sources](https://github.com/many-passwords/many-passwords#sources)
+- [Contact](https://github.com/many-passwords/many-passwords#contact)
 
 # Navigation
 
-All passwords you will find in the [passwords.csv](https://github.com/many-passwords/many-passwords/blob/main/passwords.csv) file (the data is presented in the form of a table) or [project website](https://github.com/many-passwords/).
+The credentials are included in the [passwords.csv](https://github.com/many-passwords/many-passwords/blob/main/passwords.csv) file (the data is presented in the form of a table).
 
-Number of collected default passwords: ``504``. 🙂
+Entries can also be found on [project website](https://github.com/many-passwords/).
+
+# Stats
+
+The number of unique credentials at the moment is ``504``.
+
+# Contribution
+
+Contribute in the main repository by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords/blob/main/CONTRIBUTING.md) file in main repo or    
+contribute in the web repository by checking the [CONTRIBUTING.md](https://github.com/many-passwords/many-passwords.github.io/blob/main/CONTRIBUTING.md) file in website repo.
 
 # Contributors
 
@@ -41,3 +60,9 @@ We added, formatted, cleaned some entries from:
 - [changeme](https://github.com/ztgrace/changeme)
 - [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
 - [Cirt](https://cirt.net/passwords)
+
+# Contact
+
+Feel free to contact with me!
+
+Open new [issue](https://github.com/many-passwords/many-passwords/issues/new) or [write here](https://many-passwords.github.io/contact.html).
